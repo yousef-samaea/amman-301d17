@@ -1,0 +1,17 @@
+nav, article, aside, footer section {
+    margin: 0 auto;
+    /* width: 900px; */
+    width: 58.594vw;
+  }
+  
+nav {
+    /* margin-top: 25px; */
+    margin-top: 1.6276vw;
+  }
+
+aside {
+    /* padding-top: 30px; */
+    padding-top: 1.953125vw;
+    /* padding-bottom: 60px; */
+    padding-bottom: 3.90625vw;
+  }
